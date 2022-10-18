@@ -6,6 +6,13 @@
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alessandro-massarotti-Jr/node-mail-system?color=90c53f&style=flat-square">
 </p>
 
+Node.js mail delivery system 
+
+## tools
+
+ - [Typescript](https://www.typescriptlang.org/)
+ - [Express](https://expressjs.com/)
+ - [NodeMailer](https://nodemailer.com/about/)
 
 <br>
 
