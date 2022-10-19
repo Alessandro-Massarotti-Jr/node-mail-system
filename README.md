@@ -13,6 +13,7 @@ Node.js mail delivery system
  - [Typescript](https://www.typescriptlang.org/)
  - [Express](https://expressjs.com/)
  - [NodeMailer](https://nodemailer.com/about/)
+ - [ejs](https://ejs.co/)
 
 <br>
 
