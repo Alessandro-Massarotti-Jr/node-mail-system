@@ -16,6 +16,12 @@ export interface ContactMailInterface {
 export class ContactMail {
 
     public static run(contactMail:ContactMailInterface) {
+        console.log("<---------------------------------------->");
+        console.log(process.env.MAIL_USER);
+        console.log(process.env.MAIL_HOST);
+        console.log(process.env.MAIL_PORT);
+        console.log(process.env.MAIL_PASS);
+        console.log("<---------------------------------------->");
         ejs.renderFile(path.join(viewsFolder, 'contactMail.ejs'), {
             name: contactMail.name,
             email: contactMail.email,
