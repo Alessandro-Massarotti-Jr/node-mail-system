@@ -3,7 +3,7 @@ import "dotenv/config"
 import ejs from "ejs"
 import path from "path";
 
-const viewsFolder = path.join(__dirname, '../Views/Mail');
+const viewsFolder = path.join(__dirname, '../../Resources/Views/Mail');
 
 export interface ContactMailInterface {
     name: string;
