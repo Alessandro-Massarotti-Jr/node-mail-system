@@ -14,6 +14,7 @@ Node.js mail delivery system
  - [Express](https://expressjs.com/)
  - [NodeMailer](https://nodemailer.com/about/)
  - [ejs](https://ejs.co/)
+ - [cors](https://www.npmjs.com/package/cors)
 
 <br>
 
